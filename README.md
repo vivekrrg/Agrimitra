@@ -28,7 +28,7 @@
 - Remove Product from Cart Page
 and much more
 
-## Usage
+## Usages
 
 ### ES Modules in Node
 
